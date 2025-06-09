@@ -70,6 +70,22 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "app.svg", "/shadcn.jpg"],
     link: "storage-app-2025.vercel.app/sign-in",
   },
+  {
+    id: 5,
+    title: "Product Store",
+    des: "A fullstack mern Application",
+    img: "/mern-image.png",
+    iconLists: ["/mongoDB.svg", "/express.svg", "/re.svg", "/nodejs.svg"],
+    link: "mern-product-store-fullstack.onrender.com",
+  },
+  {
+    id: 6,
+    title: "Name card generator",
+    des: "A fullstack python and react Application",
+    img: "/react+python.jpeg",
+    iconLists: ["/python.svg", "/re.svg"],
+    link: "react-python-fullstack.onrender.com",
+  },
 ];
 
 export const workExperience = [
@@ -96,6 +112,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/resume.png",
-    link: "https://drive.google.com/file/d/1RwRD0V-wL-Au8xnn_HwcQjzKzPs21JOK/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1ZYXptMyDR-NKeYtgRYWrr5LLCmEysahU/view?usp=sharing",
   },
 ];
