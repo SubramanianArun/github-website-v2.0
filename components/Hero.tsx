@@ -30,8 +30,8 @@ const Hero = () => {
             words="A limitless collection of ideas"
           />
           <p className="text-center text-sm mb-4 md:tracking-wide md:text-lg lg:text-2xl">
-            Initiate Sequence: Reality Checkpoint. Welcome, Chrononaut. You've breached the singularity and arrived at the digital edge of tomorrow. Prepare to discard your preconceived notions of gravity and logic.<br />
-<br />Log Entry: Stardate 7894.2. We've detected an intelligent life sign. Hello, voyager. You've entered a sector of speculative fiction, automated futures, and ethical conundrums. The answers aren't in the database yet—we'll have to find them together.
+            Initiate Sequence: Reality Checkpoint. Welcome, Chrononaut. You&apos;ve breached the singularity and arrived at the digital edge of tomorrow. Prepare to discard your preconceived notions of gravity and logic.<br />
+<br />Log Entry: Stardate 7894.2. We&apos;ve detected an intelligent life sign. Hello, voyager. You&apos;ve entered a sector of speculative fiction, automated futures, and ethical conundrums. The answers aren&apos;t in the database yet—we&apos;ll have to find them together.
           </p>
           <a href="#projects">
             <MagicButton
