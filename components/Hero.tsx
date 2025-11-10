@@ -23,14 +23,15 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <h2 className="uppercase tracking-widest text-blue-100 text-center text-xs max-w-80">
-            Modern & Minimalistic Portfolio
+            The Event Horizon
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless User Experiences"
+            words="A limitless collection of ideas"
           />
           <p className="text-center text-sm mb-4 md:tracking-wide md:text-lg lg:text-2xl">
-            Hi, I&apos;m Jeremy Ang, a Full Stack Developer Based in Singapore
+            Initiate Sequence: Reality Checkpoint. Welcome, Chrononaut. You've breached the singularity and arrived at the digital edge of tomorrow. Prepare to discard your preconceived notions of gravity and logic.<br />
+<br />Log Entry: Stardate 7894.2. We've detected an intelligent life sign. Hello, voyager. You've entered a sector of speculative fiction, automated futures, and ethical conundrums. The answers aren't in the database yet—we'll have to find them together.
           </p>
           <a href="#projects">
             <MagicButton

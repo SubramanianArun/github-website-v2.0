@@ -8,16 +8,16 @@ const Footer = () => {
     <footer className="w-full mb-[100px] pb-10 md:mb-5 " id="contact">
       <div className="flex flex-col items-center  ">
         <h1 className="heading lg:max-w-[45vw]">
-          I am excited about the opportunity to contribute to{" "}
-          <span className="text-purple">your</span> team&apos;s success
+          To prevent a {" "}<span className="text-purple">conflict</span> with the First and Second Laws of Robotics.
         </h1>
         <p className="text-white-200 md:mt-10 my-5">
-          Reach out to me today, and let&apos;s discuss how my qualifications
-          align with your needs.
+          1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.<br />
+          2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.<br />
+          3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
         </p>
-        <a href="mailto:jeremyangpinen@hotmail.com">
+        <a href="mailto:darth_vader@hotmail.com">
           <MagicButton
-            title="Let's Get In Touch"
+            title="May the force be with you"
             icon={<FaLocationArrow />}
             position="right"
           />
@@ -25,7 +25,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center gap-5 ">
         <p className="md:text-base text-sm md:font-normal font-light">
-          CopyRight &copy; 2025 Jeremy Ang
+          CopyRight &copy; 2025 Sam Volta
         </p>
         <div className="flex items-center md:gap-3 gap-6 ">
           {socialMedia.map((info) => (
